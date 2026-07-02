@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-venv/
-streaks.db
-server.log
