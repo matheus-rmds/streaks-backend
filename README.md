@@ -29,7 +29,7 @@ streaks-backend/
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU_USUARIO/streaks-backend.git
+git clone https://github.com/matheus-rmds/streaks-backend
 cd streaks-backend
 python -m venv venv
 #Windows:
